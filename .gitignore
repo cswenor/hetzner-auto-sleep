@@ -1,0 +1,6 @@
+.env
+!.env.template
+
+# Ignore logs and temporary files
+*.log
+*.tmp
