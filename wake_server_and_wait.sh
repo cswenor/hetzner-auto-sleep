@@ -24,6 +24,6 @@ curl -X POST "https://api.hetzner.cloud/v1/servers/$HETZNER_SERVER_ID/actions/po
 
 # Wait for the server to be ready
 echo "Waiting for the server to start..."
-sleep 15  # Adjust this based on your server's average boot time
+sleep 30  # Adjust this based on your server's average boot time
 
 exit 0  # Exit cleanly to allow VS Code to proceed with the connection

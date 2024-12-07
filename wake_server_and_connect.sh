@@ -23,7 +23,7 @@ echo "Waking the server..."
 
 # Wait for the server to boot
 echo "Waiting for the server to start..."
-sleep 15
+sleep 30
 
 # Connect to the server
 echo "Connecting to the server..."
